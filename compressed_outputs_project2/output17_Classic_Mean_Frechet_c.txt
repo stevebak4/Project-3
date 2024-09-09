@@ -1,0 +1,4 @@
+Algorithm Lloyds 
+CLUSTER-0 {centroid,aphb, aig, amzn, azo, }
+CLUSTER-1 {centroid,amat, admp, aiv, amat, antm, avp, axgn, bc, bb, aapl, adbe, adp, aes, apa, au, axp, ba, bax, aa, abx, adsk, amgn, apc, bac, bbby, abt, aee, aem, aep, atro, bby, abc, aet, amd, apd, ati, bbt, a, aaba, adi, adm, afl, all, an, ash, avy, }
+CLUSTER-2 {centroid,admp, agn, }

@@ -1,0 +1,27 @@
+
+Query: bcr
+Algorithm: LSH_Frechet_Continuous
+Approximate Nearest neighbor-0: bbt
+True Nearest neighbor-0: apa
+distanceApproximate: 46.77
+distanceTrue: 6.305
+
+Query: bdx
+Algorithm: LSH_Frechet_Continuous
+Approximate Nearest neighbor-0: Not found
+True Nearest neighbor-0: apd
+distanceApproximate: --
+distanceTrue: 4.881
+
+Query: ben
+Algorithm: LSH_Frechet_Continuous
+Approximate Nearest neighbor-0: abc
+True Nearest neighbor-0: aem
+distanceApproximate: 14.448
+distanceTrue: 6.387
+
+
+
+tApproximateAverage: 1.33333
+tTrueAverage: 49
+MAF: 7.41792 [Maximum Approximation Factor]

@@ -1,0 +1,26 @@
+
+Query: bcr
+Algorithm: LSH_VECTOR
+Approximate Nearest neighbor-0: antm
+True Nearest neighbor-0: antm
+distanceApproximate: 212.461
+distanceTrue: 212.461
+
+Query: bdx
+Algorithm: LSH_VECTOR
+Approximate Nearest neighbor-0: apd
+True Nearest neighbor-0: apd
+distanceApproximate: 117.768
+distanceTrue: 117.768
+
+Query: ben
+Algorithm: LSH_VECTOR
+Approximate Nearest neighbor-0: ash
+True Nearest neighbor-0: ash
+distanceApproximate: 137.241
+distanceTrue: 137.241
+
+
+tApproximateAverage: 0
+tTrueAverage: 2.31579e-310
+MAF: 1 [Maximum Approximation Factor]

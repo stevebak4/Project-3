@@ -1,0 +1,5 @@
+Algorithm Lloyds 
+CLUSTER-0 {centroid,bby, aa, all, amgn, bac, bb, abt, adp, aem, atro, ba, bax, adm, aet, agn, bbby, aiv, avp, bbt, bc, aee, amat, ati, axp, aapl, afl, amzn, au, a, abx, adsk, an, apc, apd, axgn, aaba, adi, antm, avy, azo, bby, admp, adbe, aes, amd, apa, abc, aep, ash, }
+CLUSTER-1 {centroid,bax, }
+CLUSTER-2 {centroid,aa, aphb, aig, }
+Silhouette: [0.185801,0,0.00195141,0.0625842]

@@ -1,0 +1,27 @@
+
+Query: bcr
+Algorithm: LSH_Frechet_Discrete
+Approximate Nearest neighbor-0: Not found
+True Nearest neighbor-0: ba
+distanceApproximate: --
+distanceTrue: 17996.2
+
+Query: bdx
+Algorithm: LSH_Frechet_Discrete
+Approximate Nearest neighbor-0: Not found
+True Nearest neighbor-0: amgn
+distanceApproximate: --
+distanceTrue: 5609.18
+
+Query: ben
+Algorithm: LSH_Frechet_Discrete
+Approximate Nearest neighbor-0: Not found
+True Nearest neighbor-0: abt
+distanceApproximate: --
+distanceTrue: 2598.72
+
+
+
+tApproximateAverage: 2.31481e-310
+tTrueAverage: 81.3333
+MAF: 0 [Maximum Approximation Factor]

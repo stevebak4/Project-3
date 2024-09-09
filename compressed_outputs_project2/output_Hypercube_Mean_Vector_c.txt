@@ -1,0 +1,17 @@
+
+
+
+
+Algorithm: Range Search LSH_Frechet  
+CLUSTER-0 {centroid,axp, aig, }
+CLUSTER-1 {centroid,apa, amzn, }
+CLUSTER-2 {centroid,a, a, afl, bc, aep, avy, bax, bbt, aee, adp, atro, aa, bac, abx, amat, apc, aapl, avp, antm, agn, aaba, admp, adsk, aiv, amd, apa, ati, au, ba, bbby, adi, all, an, axp, abt, adbe, adm, aes, aet, apd, bb, abc, aem, amgn, ash, axgn, bby, }
+
+
+
+
+Algorithm: Range Search Hypercube  
+CLUSTER-0 {centroid,amgn, aphb, azo, aig, }
+CLUSTER-1 {centroid,abt, bby, aaba, aiv, bax, abt, adm, au, avp, ash, bac, bc, aee, amat, ati, bbby, amd, axgn, aa, apa, an, atro, bbt, a, abx, aes, bb, adi, admp, aem, aep, }
+CLUSTER-2 {centroid,aaba, adbe, aet, all, amgn, antm, avy, agn, adp, apc, axp, abc, aapl, adsk, afl, amzn, apd, ba, }
+Silhouette: [0.254576,0.500829,0.363831,0.373079]

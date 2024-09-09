@@ -1,0 +1,8 @@
+
+
+
+
+Algorithm: Range Search LSH 
+CLUSTER-0 {centroid,admp, aig, aphb, }
+CLUSTER-1 {centroid,bbby, abx, aee, aep, afl, amzn, apc, au, axp, bac, bbby, bby, bc, adbe, adi, adp, adsk, agn, aiv, avp, bbt, aet, adm, amgn, antm, apa, ash, bb, azo, ati, all, ba, aa, aaba, apd, avy, }
+CLUSTER-2 {centroid,aapl, aapl, atro, axgn, a, abt, amd, an, abc, aem, aes, amat, bax, }

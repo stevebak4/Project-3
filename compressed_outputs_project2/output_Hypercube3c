@@ -1,0 +1,26 @@
+Query: bcr
+Algorithm: Hypercube
+Approximate Nearest neighbor-0: ba
+True Nearest neighbor-0: ba
+distanceApproximate: 104490
+distanceTrue: 104490
+
+Query: bdx
+Algorithm: Hypercube
+Approximate Nearest neighbor-0: apd
+True Nearest neighbor-0: apd
+distanceApproximate: 37665.3
+distanceTrue: 37665.3
+
+Query: ben
+Algorithm: Hypercube
+Approximate Nearest neighbor-0: aee
+True Nearest neighbor-0: adm
+distanceApproximate: 33539
+distanceTrue: 19348.8
+
+
+
+tApproximateAverage: 5.43472e-323
+tTrueAverage: 2.31692e-310
+MAF: 1.73339 [Maximum Approximation Factor]

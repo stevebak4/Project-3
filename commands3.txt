@@ -1,0 +1,5 @@
+python3 detect.py -d ./dataset.csv -n 4 -m 0.0015
+
+
+python3 reduce.py -d ./dataset.csv -q ./query.csv -od ./compressed_dataset.csv -oq ./compressed_queryset.csv
+

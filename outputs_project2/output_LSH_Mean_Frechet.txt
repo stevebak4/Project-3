@@ -1,0 +1,9 @@
+
+
+
+
+Algorithm: Range Search LSH_Frechet  
+CLUSTER-0 {centroid,bbby, aapl, abc, abt, abx, adm, adsk, aem, aes, amat, an, ash, atro, axgn, bax, bb, admp, }
+CLUSTER-1 {centroid,aphb, }
+CLUSTER-2 {centroid,a, a, aet, aig, amd, ati, azo, aa, amgn, amzn, antm, ba, bbby, aaba, adbe, adi, adp, aee, aep, afl, agn, aiv, all, apa, apc, apd, au, avp, avy, axp, bac, bbt, bby, bc, }
+Silhouette: [0.0326603,0,0.0412423,0.0246342]
