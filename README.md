@@ -1,18 +1,18 @@
-project3
+# Project title: Time Series Forecasting, Anomaly Detection, and Compression using LSTM and Autoencoder Models
 
 Stefanos Baklavas: 1115201700093
 
 Alexia Topalidou: 1115201600286
 
 
-Question A: Time Series Prediction using LSTM (Long Short-Term Memory) Model
+## Question A: Time Series Prediction using LSTM (Long Short-Term Memory) Model
 
 Initially, for each time series, we train the model and make predictions for the specific time series. Once this process is completed, the model 
 trained with all time series is loaded and we make again predictions for each time series. 
 Program: forecast.py
 Run: ./forecast.py
 
-Question B:  Anomaly detection in time series usnig Autoencoder model
+## Question B:  Anomaly detection in time series usnig Autoencoder model
 
 An autoencoder model compresses the time series dataset and attempts to reconstruct it, identifying anomalies that cause issues in the reconstruction 
 based on a threshold we set.
@@ -22,7 +22,7 @@ Run: python3 detect.py -d ./dataset.csv -n 4 -m 0.0015
     n= number of time series
     m= threshold for anomaly detection
 
-Question C:  Compressing  datasets using autoencoder model.
+## Question C:  Compressing  datasets using autoencoder model.
 
 In Question C reduces the dimensionality of two input time series datasets (a dataset and a query set) using a pre-trained autoencoder model. It 
 reads the datasets (dataset and query set), compresses them with the autoencoder, and writes the reduced time series to output files.
